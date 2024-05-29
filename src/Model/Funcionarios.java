@@ -22,9 +22,9 @@ public void setCargo(String cargo) {
 }
 
 public void preencherCheque(double valorPago){
-    System.out.printf("Pague em nome de %s \n", nome);
-    System.out.printf("(%s)\n", cargo);
-    System.out.println(FormatarReal.formatarReal(valorPago));
+    System.out.printf("Pague em nome de: %s \n", nome);
+    System.out.printf("Cargo: %s\n", cargo);
+    System.out.println("Valor: " +  FormatarReal.formatarReal(valorPago));
 }
 
 

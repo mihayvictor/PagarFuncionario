@@ -15,11 +15,11 @@ public class Main {
 
         for(int i=1; i <= 3; i++){
             Funcionarios umFuncionario = new Funcionarios();
-
             umFuncionario.setNome(file.nextLine());
             umFuncionario.setCargo(file.nextLine());
             umFuncionario.preencherCheque(file.nextDouble());
             file.nextLine();
+            System.out.println();
         }
     }
 }

@@ -1,12 +1,12 @@
-Joaão Fernandes
+João Fernandes
 CEO
-100000
+100000,00
 Joana Machado
 Chefe Executiva
-75000
+75000,00
 Pablo Ricardo
 Diretor Financeio
-50000
+50000,00
 
 
 
